@@ -10,4 +10,6 @@ Essentially go through the entire tutorial to where all files are on the pi, and
 
 No files were modified except the ones present in this repo. SpiderG.py I personally modified, but not much. I just changed some of the motor values. ps4.py contains the code that I developed to have the PS4 Controller operate the spider bot
 
+onBoot.sh and startup.sh are both bash scripts used to get everything running when we start up the spider bot. startup.sh runs out python files, while onBoot.sh gets blueooth up and working
+
 Feel free to watch my development on this project: https://www.youtube.com/watch?v=gwnKjuKFL4A&t=43s
