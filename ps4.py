@@ -1,3 +1,5 @@
+#This code is the real meat. This is where the PS4 controller controls different parts of the spider bot, like movement, lights, position, etc
+
 import SpiderG
 from pyPS4Controller.controller import Controller 
 import robotLight 
