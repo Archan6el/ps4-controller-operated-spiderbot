@@ -19,3 +19,5 @@ fi
 //home/pi/startup.sh start
 
 exit 0
+
+#The location of this file on your raspberry pi is "/etc/rc.local"
