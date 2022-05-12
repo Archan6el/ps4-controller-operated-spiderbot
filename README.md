@@ -4,7 +4,7 @@ Python code to remotely control Adeept Darkpaw Spiderbot using a bluetooth conne
 
 This code is free to be expanded and improved by anyone!
 
-Follow Adeept's tutorial for all necessary files: https://www.amazon.com/Adeept-Quadruped-Raspberry-Crawling-Self-stabilizing/dp/B07TLK5GP8/ref=sr_1_10?dchild=1&keywords=adeept&qid=1616448674&sr=8-10
+Follow Adeept's tutorial for all necessary files: https://www.adeept.com/learn/tutorial-91.html
 
 No files were modified except the ones present in this repo
 
