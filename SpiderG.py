@@ -1,9 +1,6 @@
 #!/usr/bin/python3
-# Description : move.py
-# Website	 : gewbot.com
-# Author	  : original code by William
-# Modifier  : Modified for own purposes by Michael Bengil
-# Date		: 2019/09/20
+
+#This file was barely modified by me. I just changed some of the motor positions to my own liking
 import socket
 import time
 import threading
