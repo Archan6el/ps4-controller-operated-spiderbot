@@ -1,6 +1,6 @@
 # Darkpaw-Spiderbot-Operated-by-PS4-Dualshock-Controller
 
-Python code to remotely control Adeept Darkpaw Spiderbot using a bluetooth connected dualshock PS4 Controller
+Python code to remotely control an Adeept Darkpaw Spiderbot using a bluetooth connected dualshock PS4 Controller
 
 **Clone this repo with:**
 ```
