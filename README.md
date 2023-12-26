@@ -15,7 +15,4 @@ No files were modified except the ones present in this repo. SpiderG.py I person
 
 All files in the "startup_files" directory are used to essentially have the spiderbot autostart and have everything run right on boot. They aren't required to have the PS4 Controller operate the Spider Bot, but are useful for not having to manually run everything every time the Pi boots:
 
-onBoot.sh and startup.sh are both bash scripts used to get everything running when we start up the spider bot. onBoot.sh gets bluetooth up and operating and runs our ps4.py program. "crontab -e" contains the contents of my crontab that runs onBoot.sh on start up. startup.sh is used to run the webserver on the spider bot. "rc.local" contains the contents of the file at "/etc/rc.local" on your Pi that runs startup.sh on boot. 
-
-
 Feel free to watch my development on this project: https://www.youtube.com/watch?v=gwnKjuKFL4A
