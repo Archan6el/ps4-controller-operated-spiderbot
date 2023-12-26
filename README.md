@@ -7,8 +7,6 @@ Python code to remotely control Adeept Darkpaw Spiderbot using a bluetooth conne
 git clone https://github.com/Archan6el/darkpaw-spiderbot-operated-by-dualshock4-controller
 ```
 
-This code is free to be expanded and improved by anyone!
-
 Follow Adeept's tutorial for all necessary files: https://www.adeept.com/learn/tutorial-91.html
 
 Essentially go through the entire tutorial to where all files are on the pi, and everything is set up and ready to go.
